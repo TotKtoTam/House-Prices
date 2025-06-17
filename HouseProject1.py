@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
-print("Цель проекта")
+print("Project goal: Predicting the price of each house. Building models and finding the best one.")
 
 test = pd.read_csv("D:/ProjectsKaggle/house/test.csv")
 train = pd.read_csv("D:/ProjectsKaggle/house/train.csv")
