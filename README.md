@@ -1,5 +1,5 @@
-<h1 align="center"> House prices 
-<h3 align="center">House price prediction</h3>
+<h1 align="center"> Houses prices 
+<h3 align="center">Houses price prediction</h3>
 Predicting the price of each house using descriptive analytics. Creating models, comparing and identifying the best predictive model.
 <ul>
   <li>Descriptive statistics for quantitative columns for test/train</li>
