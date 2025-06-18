@@ -12,6 +12,5 @@ Predicting the price of each house using descriptive analytics. Creating models,
 	<li>Cross-validation</li>
 	<li>Visualization of Predictions</li>
 </ul>
-When creating the project I used these links: <br>
-<a href="https://example.com">https://www.kaggle.com/code/recepgk/house-prices-comperhensive-eda</a> <br>
-<a href="https://example.com">https://www.kaggle.com/code/jeevikasharma2003/ultimate-guide-to-data-cleaning-techniques#notebook-container</a>
+When creating the project I used data sets.
+
